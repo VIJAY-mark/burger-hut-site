@@ -1,0 +1,305 @@
+body{
+    background-color: #000;
+   
+}
+.div1{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 1px;
+    padding-bottom: 5px;
+    padding: 5px;
+    margin-bottom: 20px ;
+}
+.div2 h{
+    color: orange;
+    font-weight: bold;
+    padding-left: 200px;
+    padding-right: 300px;
+}
+.div2 a{
+text-decoration: none;
+font-size: 15px;
+letter-spacing: 1px;
+padding-left: 20px;
+
+}
+.button2 a{
+   color: black;
+}
+.div2 a:visited{
+color:white ;
+padding: 20px;
+}
+.div2 input{
+background-color: rgb(171, 139, 24);
+border-radius: 20px;
+color: black;
+border: 2px solid black;
+margin-left: 400px;
+}
+.div2 a:hover{
+color: chartreuse
+}
+.div3{
+background:linear-gradient(rgb(61, 60, 60),rgb(236, 233, 233)),url(hero-background.jpg);
+width:93rem;
+height: 40rem;
+/* border: solid red; */
+background-repeat: no-repeat;
+background-size:cover;
+background-blend-mode: hue;
+/* height:1000px; */
+align-content: center;
+
+}
+.div3 h{
+font-size: 30px;
+font-weight: bold;
+color:yellow;
+/* padding-left: 600px; */
+/* position:relative; */
+top:350px;
+}
+.div3 p{
+    /* padding-left: 680px; */
+    color:rgb(235, 230, 230);
+    /* padding-top: 340px; */
+    font-size: 20px;
+}
+.div4 .button2 a{
+    /* display: flex; */
+    /* display: inline; */
+     color:rgb(23, 23, 22);
+     background-color: yellow;
+     border: 5px solid yellow;
+     border-radius: 2px;
+     color: aqua;
+     /* margin-left: 690px; */
+    
+}
+.div4{
+    justify-content:center;
+     align-items: center;
+     
+}
+.div5{
+    height: 300px;
+    width: 500px;
+    margin-left:500px;
+    /* border: solid rgb(220, 23, 23); */
+    /* justify-content: center ; */
+    /* align-items: center; */
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+.div6{
+    padding-top: 180px;
+}
+div .body1{
+    background-color: grey;
+}
+.div7 h{
+    color: yellow;
+    font-size: 50px;
+    padding-left: 500px;
+}
+.div7 p{
+    padding-left: 550px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.div8{
+display: flex;
+
+}
+ .div8 h{
+    padding-top:2px;
+     color: yellow;
+     padding-left: 100px;
+     font-weight: bold;
+    
+}
+.div8 p{
+    color: aliceblue;
+    padding-left: 50px;
+    /* padding-top: 20px; */
+    text-align: justify;
+    
+  
+}
+.div8 li{
+    color: yellow;
+    padding-left: 120px;
+    display: flex;
+    text-align: justify;
+} 
+.div8 .img1{
+    background-color: rgb(37, 35, 35);
+    border: 9px  solid rgb(37, 35, 35);
+    border-radius: 10px;
+    margin-right: 100px;
+    margin-left: 20px;
+    
+}
+.img1{
+    transition: 0.5s
+}
+.img1:hover{
+   transform: perspective(1000px) translateZ(70px);
+   transition: 0.5s;
+}
+.div9 h{
+    color: yellow;
+    text-align: justify;
+    padding-left: 500px;
+    position: relative;
+    top: 100px;
+    right: 280px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.div9 p{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 220px;
+}
+.div9 img{
+    position: relative;
+    left: 900px;
+    bottom:100px;
+}
+.div10{
+    display: flex;
+}
+.div10 h{
+    color: yellow;
+    position: relative;
+    left: 500px;
+    font-size: 30px;
+}
+.rew1{
+    color: aliceblue;
+    background-color: rgb(50, 49, 49);
+    width: 240px;
+    font-size: 17px;
+    padding: 30px;
+    margin-right: 20px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 7px;
+    position: relative;
+    right: 100px;
+}
+.h1{
+    color: yellow;
+    text-align: end;
+}
+.div11{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.div11 h{
+    color: yellow;
+    
+    /* padding-left: 300px; */
+    position: relative;
+    top: 40px;
+    /* right: 280px; */
+    font-size: 20px;
+    font-weight: bold;
+}
+.div11 p{
+    color: white;
+    position: relative;
+    top: 50px;
+    /* display: inline; */
+    /* left: 70px; */
+}
+
+.div11{
+    height: 120px; 
+    width: 320px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    margin-left: 40px;
+    display: flex;
+    /* display: inline; */
+}
+.rew2{
+    background-color: rgb(50, 49, 49);
+    width: 240px;
+    height: 270px;
+    font-size: 17px;
+    padding: 30px;
+    margin-right: 60px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 7px;
+    position: relative;
+    top: 90px;
+    left: 500px;
+}
+.div12{
+    position: relative;
+    top: 200px;
+    background-color: rgb(78, 73, 71);
+    width: 2000px;
+}
+.div12 h{
+    color: yellow;
+    font-size: 25px;
+    padding-left: 500px;
+    font-weight: bold;
+    position: relative;
+    top: 87px;
+}
+.div12 p{
+    color: rgb(178, 181, 183);
+    padding-left: 490px;
+    padding-top: 90px
+}
+.div12 ::placeholder{
+    color: aliceblue;
+}
+.tb1 input{
+    background-color: grey;
+    width: 500px;
+    height: 40px;
+    margin-left: 450px;
+}
+.tb2 input{
+    background-color: rgb(128, 125, 125);
+    width: 500px;
+    height: 80px;
+    margin-left: 450px;
+}
+.but1 input::placeholder{
+ color: rgb(173, 29, 29);
+}
+.but1 button{
+    /* background-color: yellow; */
+     width: 100px;
+     height: 30px;
+     margin-left: 450px;
+    background-color:rgb(128, 125, 125);
+    color: aliceblue;
+}
+/* .but1 button:hover{
+   
+} */
+ /* .inl1 a{
+    position: relative;
+    right: 200px;
+     
+} */
+
+/* background-color: rgb(162, 159, 159);
+width:520px;
+height: 620px;
+padding-top: 10px;
+padding-left: 10px;
+border-radius: 10px; */
